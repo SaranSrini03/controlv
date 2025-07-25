@@ -38,7 +38,7 @@ export default function Home() {
         transition={{ duration: 0.6, delay: 0.2 }}
       >
         <a
-          href="/editor"
+          href="/new"
           className="group relative inline-flex items-center gap-2 bg-blue-600 px-8 py-4 rounded-full font-semibold text-lg shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-1"
         >
           Lessgo

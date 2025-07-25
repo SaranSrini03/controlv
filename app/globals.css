@@ -24,3 +24,6 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+.bg-checkboard {
+  background: repeating-conic-gradient(#ccc 0% 25%, transparent 0% 50%) 0 / 20px 20px;
+}
